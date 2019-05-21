@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/memonumbers/static/css/main.2cce8147.chunk.css",
+    "main.js": "/memonumbers/static/js/main.abf92733.chunk.js",
+    "main.js.map": "/memonumbers/static/js/main.abf92733.chunk.js.map",
+    "runtime~main.js": "/memonumbers/static/js/runtime~main.928b6453.js",
+    "runtime~main.js.map": "/memonumbers/static/js/runtime~main.928b6453.js.map",
+    "static/js/2.b41502e9.chunk.js": "/memonumbers/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/memonumbers/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/memonumbers/index.html",
+    "precache-manifest.cd42d7740f684aa5e60c9697b5637edd.js": "/memonumbers/precache-manifest.cd42d7740f684aa5e60c9697b5637edd.js",
+    "service-worker.js": "/memonumbers/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/memonumbers/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/memonumbers/static/media/logo.5d5d9eef.svg"
+  }
+}
